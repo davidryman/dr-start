@@ -1,0 +1,23 @@
+{
+  "name": "dr-start",
+  "version": "1.0.0",
+  "description": "start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidryman/david-hello.git"
+  },
+  "author": "David Ryman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidryman/david-hello/issues"
+  },
+  "homepage": "https://github.com/davidryman/david-hello#readme",
+  "dependencies": {
+    "noflo": "^1.1.1",
+    "noflo-nodejs": "^0.9.0"
+  }
+}
